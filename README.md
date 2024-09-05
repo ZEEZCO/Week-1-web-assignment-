@@ -36,6 +36,10 @@
 
 <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
-<a href="google.com/">Visit Visit Google!</a>
+<a href="google.com/">Visit Visit Google!</a> <br><br>
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname">
 </body>
 </html>
