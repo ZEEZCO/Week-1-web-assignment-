@@ -7,10 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-
+<h1>Assignment week 2</h1>
 <h1>This is a Heading</h1>
-
-  <h1>Assignment week 2</h1>
 <p>This is a paragraph.</p>
 
 <form >
